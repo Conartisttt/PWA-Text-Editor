@@ -11,9 +11,10 @@
 [Credits](#credits)
 
 ## Description
-This application is meant to be the back end for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list.
 
-You can a walkthrough for this application [here](https://drive.google.com/file/d/1Idmrbq83UIlsUOvAxT_Nnk_Gt-ZgV1qJ/view)
+This application is a text editor that enables users to create notes or code snippets with or without an internet connection so that they can retreive them for later use.
+
+You can see the deployed application [here](insert link deployed application)
 
 ## Technologies Used
 
