@@ -16,6 +16,9 @@ This is a text editor that allows users to create notes or code snippets so that
 
 This application is deployed using Render [here](https://pwa-text-editor-0wj9.onrender.com/)
 
+A screenshot of the application:
+![Text Editor Page](./assets/pwa.png)
+
 ## Technologies Used
 
 - HTML
